@@ -1,0 +1,11 @@
+{
+  "name": "alissonvieira/rest-v",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": [
+      "env.php"
+    ]
+  }
+}
